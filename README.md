@@ -5,3 +5,8 @@ i) User (BOB),
 ii) Authentication Server (AS), 
 iii) Ticket Granting Server (TGS) and 
 iv) Data Server (Real Server)
+
+
+
+Background Knowledge Required: C++ Programming on UNIX System, CRYPTO++ Library, Network
+Programming.
